@@ -6,6 +6,8 @@ Improving a texture by hand is currently much more efficient than with AI. But t
 
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Texture-HD-recreation/main/J3D_texvol_1.jpg?raw=true)
 
+![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Texture-HD-recreation/main/bab_test.jpg?raw=true)
 
+![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Texture-HD-recreation/main/pal_test.jpg?raw=true)
 
 # End
